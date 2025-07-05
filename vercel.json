@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "http://srv236223.hoster-test.ru/sd/login",
+      "destination": "http://srv236430.hoster-test.ru/sd/login",
       "permanent": false
     }
   ]
